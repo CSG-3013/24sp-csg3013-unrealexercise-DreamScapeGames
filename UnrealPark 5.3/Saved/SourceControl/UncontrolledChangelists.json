@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/3rdParty/ParkLayout__1_.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/ParkLayout__1_.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/3rdParty/Downtown_West/Assets/props/prop_hotdog_cart/hotdpg_cart_textures/T_umb2_albedo_Mat.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/3rdParty/Downtown_West/Assets/props/prop_hotdog_cart/hotdpg_cart_textures/T_umb_albedo_Mat.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/ParkLayout__1__Mat.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Material/M_Material.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Material/M_Master.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Textures/TC_LeibstadtSwitzerland_Sky.uasset",
+				"D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Material/M_SkyBox.uasset"
+			]
+		}
+	]
+}
