@@ -2802,3 +2802,51 @@ LogInit: Object subsystem initialized
 [2024.04.17-16.47.28:860][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.68 sec)
 [2024.04.17-16.47.28:861][960]AssetCheck: New page: Asset Save: Park
 [2024.04.17-16.47.28:862][960]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.17-16.55.37:850][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.55.37:881][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.17-16.55.37:905][560]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.55.37:905][560]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park07E4DB264EC2608CD5E991ADD3B9FFDA.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.55.37:911][560]LogFileHelpers: Saving map 'Park' took 0.044
+[2024.04.17-16.55.37:916][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.74 sec)
+[2024.04.17-16.55.37:917][560]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.55.37:917][560]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.17-16.55.38:626][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.55.38:656][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.04.17-16.55.38:679][645]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.55.38:679][645]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/ParkE7841A3F41D71797BA1CB584C49F44EB.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.55.38:684][645]LogFileHelpers: Saving map 'Park' took 0.042
+[2024.04.17-16.55.38:691][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.81 sec)
+[2024.04.17-16.55.38:693][645]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.55.38:693][645]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.17-16.55.39:142][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.55.39:172][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.17-16.55.39:195][699]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.55.39:195][699]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park7993A7D744FC9B79C5067B8628869D19.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.55.39:201][699]LogFileHelpers: Saving map 'Park' took 0.042
+[2024.04.17-16.55.39:206][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.87 sec)
+[2024.04.17-16.55.39:208][699]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.55.39:208][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.17-16.55.39:308][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.55.39:342][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.04.17-16.55.39:365][711]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.55.39:365][711]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park7D56B6574FB6336223DE4485C54836F3.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.55.39:371][711]LogFileHelpers: Saving map 'Park' took 0.042
+[2024.04.17-16.55.39:376][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.94 sec)
+[2024.04.17-16.55.39:377][711]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.55.39:377][711]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.17-16.55.39:477][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.55.39:510][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.04.17-16.55.39:533][723]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.55.39:533][723]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park36E025174A3AF616E580D6938DCF0720.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.55.39:539][723]LogFileHelpers: Saving map 'Park' took 0.042
+[2024.04.17-16.55.39:544][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.01 sec)
+[2024.04.17-16.55.39:546][723]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.55.39:546][723]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.17-16.55.39:821][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.55.39:851][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.17-16.55.39:874][756]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.55.39:874][756]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/ParkFD3910E24AF68A44768F76AEFDA97B40.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.55.39:881][756]LogFileHelpers: Saving map 'Park' took 0.042
+[2024.04.17-16.55.39:886][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.07 sec)
+[2024.04.17-16.55.39:887][756]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.55.39:887][756]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
