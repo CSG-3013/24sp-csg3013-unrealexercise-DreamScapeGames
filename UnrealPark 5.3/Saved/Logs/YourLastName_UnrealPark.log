@@ -2616,3 +2616,189 @@ LogInit: Object subsystem initialized
 [2024.04.17-16.36.54:523][257]LogContentBrowser: Renaming the item being created (Deferred Item: M_SkyBox_Master1).
 [2024.04.17-16.36.56:905][533]LogContentBrowser: Attempting asset rename: M_SkyBox_Master1 -> M_SkyBox_Master1
 [2024.04.17-16.36.56:923][533]LogContentBrowser: End creating deferred item M_SkyBox_Master1
+[2024.04.17-16.39.52:654][948]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra\BunkerRecordPlayer_b.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:517][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/BunkerRecordPlayer_b.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:526][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/DefaultTextures/Black.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:530][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/DefaultTextures/Grey50.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:535][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/DefaultTextures/Neutral_N.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:539][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/DefaultTextures/Test_c.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:543][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/DefaultTextures/White.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:550][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/Functions/Master_Props_MatFunc.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:553][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/MasterMaterial/Master_Props_Mat.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:556][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Common/Materials/DetailTextures/DetailNormal_a.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:561][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Materials/BunkerRecordPlayer_a_Mat.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:566][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Textures/BunkerRecordPlayer_a_c.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:574][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Textures/BunkerRecordPlayer_a_n.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.40.01:578][491]LogAssetTools: Warning: Failed to import 'C:\Users\bmm6258\Downloads\Assets\Assets 5.3\Content\3rdParty\EF_Barbra/Textures/BunkerRecordPlayer_a_r.uasset'. Unknown extension 'uasset'.
+[2024.04.17-16.42.25:718][228]LogDerivedDataCache: C:/Users/bmm6258/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6788 files in 8423 folders with total size 612 MiB.
+[2024.04.17-16.42.40:097][952]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-16.42.40:176][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-16.42.40:194][952]PIE: New page: PIE session: Park (Apr 17, 2024, 6:42:40 AM)
+[2024.04.17-16.42.40:255][952]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.17-16.42.40:255][952]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.17-16.42.40:257][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.17-16.42.40:268][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010882s)
+[2024.04.17-16.42.40:268][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.010966s)
+[2024.04.17-16.42.40:271][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.17-16.42.40:274][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-16.42.40:283][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-16.42.40:284][952]LogAIModule: Creating AISystem for world Park
+[2024.04.17-16.42.40:294][952]LogPlayLevel: PIE: World Init took: (0.020634s)
+[2024.04.17-16.42.40:294][952]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-16.42.40:294][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.17-16.42.40:294][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-16.42.40:294][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-16.42.40:295][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-16.42.40:295][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-16.42.40:297][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-16.42.40:311][952]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.17-16.42.40:311][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-16.42.40:311][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-16.42.40:311][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-16.42.40:312][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.17-16.42.40:312][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.17-16.42.40:313][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.17-16.42.40:313][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.17-16.42.40:313][952]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.17-16.42.40:313][952]LogAudio: Display: Audio Device (ID: 2) registered with world 'Park'.
+[2024.04.17-16.42.40:313][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.17-16.42.41:353][952]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.17-16.42.41:491][952]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-16.42.41:496][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.17-11.42.41
+[2024.04.17-16.42.41:496][952]LogWorld: Bringing up level for play took: 0.005230
+[2024.04.17-16.42.41:498][952]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.17-16.42.41:765][952]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.17-16.42.42:177][952]PIE: Server logged in
+[2024.04.17-16.42.42:186][952]PIE: Play in editor total start time 2.071 seconds.
+[2024.04.17-16.42.42:359][953]LogAutomationController: Ignoring very large delta of 2.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: ================================================
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Total job queries 798, among them cache hits 596 (74.69%)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Tracking 200 distinct input hashes that result in 101 distinct outputs (50.50%)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: RAM used: 442.88 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Shaders Compiled: 89
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100%)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Average time worker was idle: 229.06 s
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.33 s
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 1.85 s
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 2.14
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Shader code size: average 5.541 KiB, min 432 B, max 45.699 KiB
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.46 s
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Average processing rate: 5.76 jobs/sec
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Total thread time: 27.876 s
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Total thread preprocess time: 6.254 s
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Percentage time preprocessing: 22.43%
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 0.48 sec, max 1.33 sec, min 0.14 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   11 times, average 0.34 sec, max 0.74 sec, min 0.18 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   14 times, average 0.33 sec, max 0.78 sec, min 0.19 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.96% of total time (compiled   19 times, average 0.48 sec, max 1.33 sec, min 0.14 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.37% of total time (compiled   14 times, average 0.33 sec, max 0.78 sec, min 0.19 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.51% of total time (compiled   11 times, average 0.34 sec, max 0.74 sec, min 0.18 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.67% of total time (compiled   11 times, average 0.19 sec, max 0.54 sec, min 0.07 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.18% of total time (compiled    7 times, average 0.29 sec, max 0.67 sec, min 0.20 sec)
+[2024.04.17-16.42.42:404][953]LogShaderCompilers: Display: ================================================
+[2024.04.17-16.42.51:779][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-16.42.51:779][ 48]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.17-16.42.51:783][ 48]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-16.42.51:784][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-16.42.51:797][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-16.42.51:799][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-16.42.51:801][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.17-16.42.51:801][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.17-16.42.51:801][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.17-16.42.51:803][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.17-16.42.51:805][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-16.42.51:823][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.17-16.42.51:857][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.17-16.43.12:017][420]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-16.43.16:628][969]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-16.43.20:853][437]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-16.43.26:670][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.17-16.45.35:953][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.17-16.45.35:977][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Park_Auto6
+[2024.04.17-16.45.35:977][494]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park_Auto62BA264DC43DBC1A2D79E359D19B9E455.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto6.umap'
+[2024.04.17-16.45.35:978][494]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto6.umap is in the /Temp path, will not scan.
+[2024.04.17-16.45.35:978][494]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Park_Auto6 is in the /Temp path, will not scan.
+[2024.04.17-16.45.35:978][494]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Park_Auto6 is in the /Temp path, will not scan.
+[2024.04.17-16.45.35:978][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Park' took 0.027
+[2024.04.17-16.45.35:978][494]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.04.17-16.45.35:979][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/material/M_SkyBox_Master1] ([1] browsable assets)...
+[2024.04.17-16.45.35:993][494]OBJ SavePackage:     Rendered thumbnail for [Material /Game/material/M_SkyBox_Master1.M_SkyBox_Master1]
+[2024.04.17-16.45.35:993][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/material/M_SkyBox_Master1]
+[2024.04.17-16.45.35:995][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/material/M_SkyBox_Master1_Auto6
+[2024.04.17-16.45.35:995][494]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/M_SkyBox_Master1_Auto62C85C9D849D7328E2A484BBD7EADBAE1.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/material/M_SkyBox_Master1_Auto6.uasset'
+[2024.04.17-16.45.35:995][494]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.04.17-16.45.52:884][497]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-16.45.52:889][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-16.45.52:889][497]PIE: New page: PIE session: Park (Apr 17, 2024, 6:45:52 AM)
+[2024.04.17-16.45.52:889][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.17-16.45.52:896][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006646s)
+[2024.04.17-16.45.52:896][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.006674s)
+[2024.04.17-16.45.52:898][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.17-16.45.52:899][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-16.45.52:899][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-16.45.52:900][497]LogAIModule: Creating AISystem for world Park
+[2024.04.17-16.45.52:900][497]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2024.04.17-16.45.52:900][497]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-16.45.52:900][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.17-16.45.52:900][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-16.45.52:900][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-16.45.52:900][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-16.45.52:900][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-16.45.52:902][497]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-16.45.52:914][497]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.17-16.45.52:914][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-16.45.52:914][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-16.45.52:914][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-16.45.52:914][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.17-16.45.52:914][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.17-16.45.52:915][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.17-16.45.52:915][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.17-16.45.52:915][497]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.17-16.45.52:915][497]LogAudio: Display: Audio Device (ID: 3) registered with world 'Park'.
+[2024.04.17-16.45.52:915][497]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.17-16.45.52:917][497]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.17-16.45.52:923][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.17-11.45.52
+[2024.04.17-16.45.52:923][497]LogWorld: Bringing up level for play took: 0.005164
+[2024.04.17-16.45.52:924][497]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.17-16.45.52:967][497]PIE: Server logged in
+[2024.04.17-16.45.52:968][497]PIE: Play in editor total start time 0.08 seconds.
+[2024.04.17-16.47.27:027][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-16.47.27:027][765]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.17-16.47.27:027][765]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-16.47.27:029][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-16.47.27:033][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-16.47.27:034][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-16.47.27:036][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-16.47.27:037][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.17-16.47.27:037][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.17-16.47.27:038][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.17-16.47.27:044][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.17-16.47.27:087][766]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.17-16.47.28:760][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-16.47.28:808][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.17-16.47.28:832][960]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.17-16.47.28:833][960]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park3CAAEC984145B3FE2CFBED81BAE2D9AC.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.17-16.47.28:854][960]LogFileHelpers: Saving map 'Park' took 0.058
+[2024.04.17-16.47.28:860][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.68 sec)
+[2024.04.17-16.47.28:861][960]AssetCheck: New page: Asset Save: Park
+[2024.04.17-16.47.28:862][960]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
