@@ -3459,3 +3459,355 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.22-16.34.26:728][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.68 sec)
 [2024.04.22-16.34.26:731][980]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
 [2024.04.22-16.34.26:731][980]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.38.38:285][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.38.38:313][320]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.38.38:314][320]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintDE4F173C4D9F7CC3A5D583B1570A1949.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.38.38:320][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.72 sec)
+[2024.04.22-16.38.38:323][320]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.38.38:323][320]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.38.43:302][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-16.38.43:328][842]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.22-16.38.43:328][842]LogPlayLevel: [PlayLevel] Compiling SM_Gate_Blueprint before play...
+[2024.04.22-16.38.43:539][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.22-16.38.43:545][842]LogPlayLevel: PlayLevel: Blueprint regeneration took 217 ms (1 blueprints)
+[2024.04.22-16.38.43:545][842]PIE: New page: PIE session: Park (Apr 22, 2024, 6:38:43 AM)
+[2024.04.22-16.38.43:545][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.38.43:555][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009684s)
+[2024.04.22-16.38.43:555][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.009723s)
+[2024.04.22-16.38.43:562][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.22-16.38.43:563][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.38.43:563][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.38.43:564][842]LogAIModule: Creating AISystem for world Park
+[2024.04.22-16.38.43:564][842]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2024.04.22-16.38.43:564][842]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-16.38.43:564][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-16.38.43:564][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-16.38.43:564][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-16.38.43:565][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-16.38.43:565][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-16.38.43:566][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-16.38.43:581][842]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.22-16.38.43:582][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-16.38.43:582][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-16.38.43:582][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-16.38.43:582][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.22-16.38.43:582][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.22-16.38.43:583][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.22-16.38.43:584][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.22-16.38.43:584][842]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.22-16.38.43:584][842]LogAudio: Display: Audio Device (ID: 3) registered with world 'Park'.
+[2024.04.22-16.38.43:584][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.22-16.38.43:586][842]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-16.38.43:590][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Arch' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6741.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:590][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Post_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6742.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:590][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Post_l' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6743.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Gate_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6744.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Gate_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6745.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Hinge_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6746.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Hinge_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6747.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Arch' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6062.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Post_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6063.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Post_l' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6064.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Gate_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6065.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Gate_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6066.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Hinge_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6067.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:591][842]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Hinge_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6068.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.38.43:593][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.22-11.38.43
+[2024.04.22-16.38.43:594][842]LogWorld: Bringing up level for play took: 0.006901
+[2024.04.22-16.38.43:595][842]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.04.22-16.38.43:599][842]PIE: Server logged in
+[2024.04.22-16.38.43:600][842]PIE: Play in editor total start time 0.291 seconds.
+[2024.04.22-16.39.02:933][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.39.02:933][155]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.39.02:934][155]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-16.39.02:936][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.39.02:940][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-16.39.02:942][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.39.02:952][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.39.02:954][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.22-16.39.02:954][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.22-16.39.02:956][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.22-16.39.02:963][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.22-16.39.03:044][156]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.04.22-16.39.05:225][391]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-16.39.05:229][391]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-16.39.07:964][718]Cmd: DELETE
+[2024.04.22-16.39.07:964][718]Cmd: ACTOR DELETE
+[2024.04.22-16.39.07:968][718]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2024.04.22-16.39.07:974][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.22-16.39.07:977][718]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.04.22-16.39.24:990][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-16.39.24:996][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-16.39.24:996][697]PIE: New page: PIE session: Park (Apr 22, 2024, 6:39:24 AM)
+[2024.04.22-16.39.25:042][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.39.25:052][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009291s)
+[2024.04.22-16.39.25:052][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.009332s)
+[2024.04.22-16.39.25:062][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.22-16.39.25:066][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.39.25:066][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.39.25:066][697]LogAIModule: Creating AISystem for world Park
+[2024.04.22-16.39.25:066][697]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2024.04.22-16.39.25:067][697]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-16.39.25:067][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-16.39.25:067][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-16.39.25:067][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-16.39.25:067][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-16.39.25:067][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-16.39.25:069][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-16.39.25:082][697]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.22-16.39.25:082][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-16.39.25:082][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-16.39.25:082][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-16.39.25:082][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.22-16.39.25:082][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.22-16.39.25:084][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.22-16.39.25:084][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.22-16.39.25:084][697]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.22-16.39.25:084][697]LogAudio: Display: Audio Device (ID: 4) registered with world 'Park'.
+[2024.04.22-16.39.25:084][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.22-16.39.25:086][697]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Arch' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6741.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Post_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6742.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Post_l' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6743.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Gate_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6744.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Gate_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6745.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Hinge_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6746.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Hinge_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6747.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Arch' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6062.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Post_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6063.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Post_l' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6064.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Gate_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6065.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Gate_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6066.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:089][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Hinge_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6067.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:090][697]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Hinge_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6068.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.39.25:093][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.22-11.39.25
+[2024.04.22-16.39.25:093][697]LogWorld: Bringing up level for play took: 0.006856
+[2024.04.22-16.39.25:095][697]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.04.22-16.39.25:099][697]PIE: Server logged in
+[2024.04.22-16.39.25:100][697]PIE: Play in editor total start time 0.105 seconds.
+[2024.04.22-16.39.27:992][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.39.27:992][ 38]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.39.27:993][ 38]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-16.39.27:995][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.39.27:999][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-16.39.28:001][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.39.28:011][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.39.28:012][ 38]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.22-16.39.28:012][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.22-16.39.28:014][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.22-16.39.28:021][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.22-16.39.28:094][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.04.22-16.39.29:965][236]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-16.39.29:969][236]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-16.40.09:502][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-16.40.09:508][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-16.40.09:508][907]PIE: New page: PIE session: Park (Apr 22, 2024, 6:40:09 AM)
+[2024.04.22-16.40.09:542][907]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.40.09:555][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012146s)
+[2024.04.22-16.40.09:555][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.012189s)
+[2024.04.22-16.40.09:560][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.22-16.40.09:563][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.40.09:563][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.40.09:563][907]LogAIModule: Creating AISystem for world Park
+[2024.04.22-16.40.09:564][907]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2024.04.22-16.40.09:564][907]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-16.40.09:564][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-16.40.09:564][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-16.40.09:564][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-16.40.09:564][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-16.40.09:564][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-16.40.09:566][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-16.40.09:579][907]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.22-16.40.09:579][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-16.40.09:579][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-16.40.09:579][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-16.40.09:579][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.22-16.40.09:579][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.22-16.40.09:581][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.22-16.40.09:581][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.22-16.40.09:581][907]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.22-16.40.09:581][907]LogAudio: Display: Audio Device (ID: 5) registered with world 'Park'.
+[2024.04.22-16.40.09:582][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.22-16.40.09:584][907]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-16.40.09:587][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Arch' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6741.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:587][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Post_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6742.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:587][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Post_l' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6743.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:587][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Gate_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6744.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:587][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Gate_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6745.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:587][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.SM_Hinge_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6746.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.Sm_Hinge_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6747.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Arch' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6062.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Post_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6063.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Post_l' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6064.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Gate_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6065.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Gate_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6066.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.SM_Hinge_R' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6067.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:588][907]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.Sm_Hinge_L' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6068.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-16.40.09:590][907]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.22-11.40.09
+[2024.04.22-16.40.09:591][907]LogWorld: Bringing up level for play took: 0.006398
+[2024.04.22-16.40.09:592][907]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.22-16.40.09:596][907]PIE: Server logged in
+[2024.04.22-16.40.09:597][907]PIE: Play in editor total start time 0.09 seconds.
+[2024.04.22-16.40.28:603][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.40.28:604][ 25]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.40.28:604][ 25]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-16.40.28:605][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.40.28:608][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-16.40.28:612][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.40.28:622][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.40.28:623][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.22-16.40.28:623][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.22-16.40.28:625][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.22-16.40.28:631][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.22-16.40.28:710][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.22-16.40.30:518][216]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-16.40.30:521][216]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-16.41.00:990][186]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.06:875][706]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.09:360][908]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.11:147][ 44]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.13:565][233]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.15:859][424]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.17:967][596]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.41.22:225][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.41.22:257][963]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.41.22:257][963]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_Blueprint9EA8EC314821CD9A4091EDB58802ED80.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.41.22:262][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.75 sec)
+[2024.04.22-16.41.22:263][963]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.41.22:263][963]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.41.26:756][415]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-16.41.26:761][415]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.22-16.41.26:762][415]LogPlayLevel: [PlayLevel] Compiling SM_Gate_Blueprint before play...
+[2024.04.22-16.41.26:829][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.22-16.41.26:833][415]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2024.04.22-16.41.26:833][415]PIE: New page: PIE session: Park (Apr 22, 2024, 6:41:26 AM)
+[2024.04.22-16.41.26:833][415]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.41.26:842][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009189s)
+[2024.04.22-16.41.26:842][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.009224s)
+[2024.04.22-16.41.26:852][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.22-16.41.26:853][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.41.26:853][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.41.26:854][415]LogAIModule: Creating AISystem for world Park
+[2024.04.22-16.41.26:854][415]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2024.04.22-16.41.26:854][415]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-16.41.26:854][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-16.41.26:854][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-16.41.26:855][415]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-16.41.26:855][415]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-16.41.26:855][415]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-16.41.26:856][415]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-16.41.26:869][415]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.22-16.41.26:869][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-16.41.26:869][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-16.41.26:869][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-16.41.26:870][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.22-16.41.26:870][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.22-16.41.26:871][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.22-16.41.26:871][415]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.22-16.41.26:871][415]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.22-16.41.26:871][415]LogAudio: Display: Audio Device (ID: 6) registered with world 'Park'.
+[2024.04.22-16.41.26:872][415]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.22-16.41.26:874][415]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-16.41.26:880][415]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.22-11.41.26
+[2024.04.22-16.41.26:880][415]LogWorld: Bringing up level for play took: 0.006144
+[2024.04.22-16.41.26:883][415]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.04.22-16.41.26:886][415]PIE: Server logged in
+[2024.04.22-16.41.26:887][415]PIE: Play in editor total start time 0.127 seconds.
+[2024.04.22-16.41.40:353][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.41.40:353][ 25]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.41.40:354][ 25]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-16.41.40:357][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.41.40:361][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-16.41.40:364][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.41.40:373][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.41.40:374][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.22-16.41.40:375][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.22-16.41.40:377][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.22-16.41.40:384][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.22-16.41.40:434][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.04.22-16.41.55:705][794]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-16.41.55:711][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-16.41.55:711][794]PIE: New page: PIE session: Park (Apr 22, 2024, 6:41:55 AM)
+[2024.04.22-16.41.55:733][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.41.55:745][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012261s)
+[2024.04.22-16.41.55:745][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.012308s)
+[2024.04.22-16.41.55:751][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.22-16.41.55:755][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.41.55:755][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.41.55:755][794]LogAIModule: Creating AISystem for world Park
+[2024.04.22-16.41.55:755][794]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2024.04.22-16.41.55:755][794]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.22-16.41.55:755][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-16.41.55:755][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-16.41.55:755][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-16.41.55:755][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-16.41.55:755][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-16.41.55:755][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-16.41.55:756][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-16.41.55:756][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-16.41.55:756][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-16.41.55:756][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-16.41.55:756][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-16.41.55:757][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-16.41.55:770][794]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.22-16.41.55:771][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-16.41.55:771][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-16.41.55:771][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-16.41.55:771][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.22-16.41.55:771][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.22-16.41.55:773][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.22-16.41.55:773][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.22-16.41.55:773][794]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.22-16.41.55:773][794]LogAudio: Display: Audio Device (ID: 7) registered with world 'Park'.
+[2024.04.22-16.41.55:773][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.22-16.41.55:775][794]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-16.41.55:781][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.22-11.41.55
+[2024.04.22-16.41.55:781][794]LogWorld: Bringing up level for play took: 0.006203
+[2024.04.22-16.41.55:783][794]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.22-16.41.55:787][794]PIE: Server logged in
+[2024.04.22-16.41.55:788][794]PIE: Play in editor total start time 0.078 seconds.
+[2024.04.22-16.41.58:803][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.41.58:804][151]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.22-16.41.58:804][151]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-16.41.58:806][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.41.58:809][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-16.41.58:813][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.41.58:819][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-16.41.58:820][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.22-16.41.58:820][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.22-16.41.58:821][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.22-16.41.58:825][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-16.41.58:828][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.22-16.41.58:877][153]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.22-16.43.42:740][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.43.42:780][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.22-16.43.42:815][613]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.22-16.43.42:815][613]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park2E29A7824944962E129F32AAC006D4D1.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.22-16.43.42:823][613]LogFileHelpers: Saving map 'Park' took 0.063
+[2024.04.22-16.43.42:828][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.84 sec)
+[2024.04.22-16.43.42:830][613]AssetCheck: New page: Asset Save: Park
+[2024.04.22-16.43.42:830][613]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
