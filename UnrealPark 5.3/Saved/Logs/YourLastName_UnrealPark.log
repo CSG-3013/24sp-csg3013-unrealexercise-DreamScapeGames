@@ -3198,3 +3198,264 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.22-16.04.17:762][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.30 sec)
 [2024.04.22-16.04.17:763][985]AssetCheck: New page: Asset Save: Park
 [2024.04.22-16.04.17:763][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
+[2024.04.22-16.06.42:843][ 84]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.06.43:376][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.06.43:376][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.06.43:398][ 84]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.22-16.06.44:848][ 84]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.04.22-16.06.44:861][ 84]LogStaticMesh: Display: Building static mesh PhAT_FloorBox...
+[2024.04.22-16.06.44:862][ 84]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2024.04.22-16.06.45:084][ 84]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.241770s (0.241770s overbudget)
+[2024.04.22-16.06.45:190][ 84]LogSlate: Took 0.004638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.22-16.06.51:090][735]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.24:820][630]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.33:730][636]LogViewport: Scene viewport resized to 988x740, mode Windowed.
+[2024.04.22-16.07.49:380][455]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.49:882][509]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.50:312][555]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.52:387][792]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.52:863][843]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.53:863][957]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.54:661][ 48]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.58:587][502]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.07.58:721][503]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.07.59:459][557]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.08.01:982][839]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.08.02:054][840]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.08.58:290][348]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.09.11:966][938]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.09.14:167][189]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.09.46:657][990]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.09.48:633][212]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.00:944][645]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.03:786][971]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.13:695][121]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.17:881][602]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.24:939][410]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.10.25:075][411]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.38:459][951]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.40:432][176]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.10.56:439][ 32]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.13.05:503][906]LogActorFactory: Actor Factory attempting to spawn Class /Script/LevelSequence.LevelSequenceActor
+[2024.04.22-16.13.05:503][906]LogActorFactory: Actor Factory attempting to spawn Class /Script/LevelSequence.LevelSequenceActor
+[2024.04.22-16.13.05:505][906]LogActorFactory: Actor Factory spawned Class /Script/LevelSequence.LevelSequenceActor as actor: LevelSequenceActor /Game/Maps/Park.Park:PersistentLevel.LevelSequenceActor_1
+[2024.04.22-16.13.05:505][906]LogActorFactory: Actor Factory spawned Class /Script/LevelSequence.LevelSequenceActor as actor: LevelSequenceActor /Game/Maps/Park.Park:PersistentLevel.LevelSequenceActor_1
+[2024.04.22-16.13.10:076][429]LogSlate: Window 'SM_Gate_Blueprint' being destroyed
+[2024.04.22-16.13.10:081][429]LogSlate: Window 'SM_Gate_Blueprint' being destroyed
+[2024.04.22-16.13.10:121][429]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-16.13.10:121][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-16.14.45:765][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.14.45:765][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-16.14.45:765][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-16.14.50:099][320]LogViewport: Scene viewport resized to 988x583, mode Windowed.
+[2024.04.22-16.15.53:102][634]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.15.59:742][399]LogViewport: Scene viewport resized to 1525x973, mode Windowed.
+[2024.04.22-16.16.02:568][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.16.02:594][713]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.16.02:594][713]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintA67E7ACC4B2FC4CD47A52E8AD1F3EB00.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.16.02:600][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 1.34 sec)
+[2024.04.22-16.16.02:602][713]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.16.02:602][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.16.03:572][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.16.03:597][821]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.16.03:597][821]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintCF7691784F9D7202119A098F0EF0CCA2.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.16.03:603][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 1.37 sec)
+[2024.04.22-16.16.03:605][821]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.16.03:605][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.16.03:813][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.16.03:839][845]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.16.03:839][845]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_Blueprint63BED0314D437F2148F1F485FD694DB6.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.16.03:845][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1.40 sec)
+[2024.04.22-16.16.03:847][845]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.16.03:847][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.21.09:939][570]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.21.10:983][681]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.22.18:308][413]LogViewport: Scene viewport resized to 1525x970, mode Windowed.
+[2024.04.22-16.22.18:323][414]LogViewport: Scene viewport resized to 1525x964, mode Windowed.
+[2024.04.22-16.22.18:337][415]LogViewport: Scene viewport resized to 1525x958, mode Windowed.
+[2024.04.22-16.22.18:350][416]LogViewport: Scene viewport resized to 1525x953, mode Windowed.
+[2024.04.22-16.22.18:365][417]LogViewport: Scene viewport resized to 1525x952, mode Windowed.
+[2024.04.22-16.22.18:379][418]LogViewport: Scene viewport resized to 1525x949, mode Windowed.
+[2024.04.22-16.22.18:392][419]LogViewport: Scene viewport resized to 1525x945, mode Windowed.
+[2024.04.22-16.22.18:407][420]LogViewport: Scene viewport resized to 1525x944, mode Windowed.
+[2024.04.22-16.22.18:430][422]LogViewport: Scene viewport resized to 1525x943, mode Windowed.
+[2024.04.22-16.22.18:454][424]LogViewport: Scene viewport resized to 1525x941, mode Windowed.
+[2024.04.22-16.22.18:469][425]LogViewport: Scene viewport resized to 1525x940, mode Windowed.
+[2024.04.22-16.22.18:488][426]LogViewport: Scene viewport resized to 1525x939, mode Windowed.
+[2024.04.22-16.22.18:502][427]LogViewport: Scene viewport resized to 1525x935, mode Windowed.
+[2024.04.22-16.22.18:519][428]LogViewport: Scene viewport resized to 1525x932, mode Windowed.
+[2024.04.22-16.22.18:533][429]LogViewport: Scene viewport resized to 1525x928, mode Windowed.
+[2024.04.22-16.22.18:547][430]LogViewport: Scene viewport resized to 1525x921, mode Windowed.
+[2024.04.22-16.22.18:583][431]LogViewport: Scene viewport resized to 1525x908, mode Windowed.
+[2024.04.22-16.22.18:598][432]LogViewport: Scene viewport resized to 1525x907, mode Windowed.
+[2024.04.22-16.22.18:612][433]LogViewport: Scene viewport resized to 1525x901, mode Windowed.
+[2024.04.22-16.22.18:625][434]LogViewport: Scene viewport resized to 1525x895, mode Windowed.
+[2024.04.22-16.22.18:641][435]LogViewport: Scene viewport resized to 1525x890, mode Windowed.
+[2024.04.22-16.22.18:659][436]LogViewport: Scene viewport resized to 1525x884, mode Windowed.
+[2024.04.22-16.22.18:674][437]LogViewport: Scene viewport resized to 1525x879, mode Windowed.
+[2024.04.22-16.22.18:688][438]LogViewport: Scene viewport resized to 1525x877, mode Windowed.
+[2024.04.22-16.22.18:702][439]LogViewport: Scene viewport resized to 1525x876, mode Windowed.
+[2024.04.22-16.22.18:718][440]LogViewport: Scene viewport resized to 1525x874, mode Windowed.
+[2024.04.22-16.22.18:732][441]LogViewport: Scene viewport resized to 1525x873, mode Windowed.
+[2024.04.22-16.22.18:769][444]LogViewport: Scene viewport resized to 1525x871, mode Windowed.
+[2024.04.22-16.22.18:785][445]LogViewport: Scene viewport resized to 1525x868, mode Windowed.
+[2024.04.22-16.22.18:801][446]LogViewport: Scene viewport resized to 1525x866, mode Windowed.
+[2024.04.22-16.22.18:817][447]LogViewport: Scene viewport resized to 1525x865, mode Windowed.
+[2024.04.22-16.22.18:831][448]LogViewport: Scene viewport resized to 1525x858, mode Windowed.
+[2024.04.22-16.22.18:847][449]LogViewport: Scene viewport resized to 1525x852, mode Windowed.
+[2024.04.22-16.22.18:861][450]LogViewport: Scene viewport resized to 1525x849, mode Windowed.
+[2024.04.22-16.22.18:881][451]LogViewport: Scene viewport resized to 1525x838, mode Windowed.
+[2024.04.22-16.22.18:896][452]LogViewport: Scene viewport resized to 1525x819, mode Windowed.
+[2024.04.22-16.22.18:910][453]LogViewport: Scene viewport resized to 1525x815, mode Windowed.
+[2024.04.22-16.22.18:943][454]LogViewport: Scene viewport resized to 1525x796, mode Windowed.
+[2024.04.22-16.22.18:958][455]LogViewport: Scene viewport resized to 1525x792, mode Windowed.
+[2024.04.22-16.22.18:984][456]LogViewport: Scene viewport resized to 1525x780, mode Windowed.
+[2024.04.22-16.22.19:000][457]LogViewport: Scene viewport resized to 1525x777, mode Windowed.
+[2024.04.22-16.22.19:014][458]LogViewport: Scene viewport resized to 1525x772, mode Windowed.
+[2024.04.22-16.22.19:030][459]LogViewport: Scene viewport resized to 1525x770, mode Windowed.
+[2024.04.22-16.22.19:063][460]LogViewport: Scene viewport resized to 1525x765, mode Windowed.
+[2024.04.22-16.22.19:077][461]LogViewport: Scene viewport resized to 1525x763, mode Windowed.
+[2024.04.22-16.22.19:095][462]LogViewport: Scene viewport resized to 1525x761, mode Windowed.
+[2024.04.22-16.22.19:110][463]LogViewport: Scene viewport resized to 1525x759, mode Windowed.
+[2024.04.22-16.22.19:158][467]LogViewport: Scene viewport resized to 1525x756, mode Windowed.
+[2024.04.22-16.22.19:176][468]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.22-16.22.19:191][469]LogViewport: Scene viewport resized to 1525x753, mode Windowed.
+[2024.04.22-16.22.19:209][470]LogViewport: Scene viewport resized to 1525x751, mode Windowed.
+[2024.04.22-16.22.19:223][471]LogViewport: Scene viewport resized to 1525x748, mode Windowed.
+[2024.04.22-16.22.19:238][472]LogViewport: Scene viewport resized to 1525x747, mode Windowed.
+[2024.04.22-16.22.19:264][474]LogViewport: Scene viewport resized to 1525x746, mode Windowed.
+[2024.04.22-16.22.19:279][475]LogViewport: Scene viewport resized to 1525x744, mode Windowed.
+[2024.04.22-16.22.19:326][479]LogViewport: Scene viewport resized to 1525x742, mode Windowed.
+[2024.04.22-16.22.19:341][480]LogViewport: Scene viewport resized to 1525x741, mode Windowed.
+[2024.04.22-16.22.19:361][481]LogViewport: Scene viewport resized to 1525x737, mode Windowed.
+[2024.04.22-16.22.19:375][482]LogViewport: Scene viewport resized to 1525x733, mode Windowed.
+[2024.04.22-16.22.19:395][483]LogViewport: Scene viewport resized to 1525x731, mode Windowed.
+[2024.04.22-16.22.19:409][484]LogViewport: Scene viewport resized to 1525x728, mode Windowed.
+[2024.04.22-16.22.19:450][485]LogViewport: Scene viewport resized to 1525x717, mode Windowed.
+[2024.04.22-16.22.19:464][486]LogViewport: Scene viewport resized to 1525x714, mode Windowed.
+[2024.04.22-16.22.19:479][487]LogViewport: Scene viewport resized to 1525x713, mode Windowed.
+[2024.04.22-16.22.19:494][488]LogViewport: Scene viewport resized to 1525x710, mode Windowed.
+[2024.04.22-16.22.19:509][489]LogViewport: Scene viewport resized to 1525x709, mode Windowed.
+[2024.04.22-16.22.19:524][490]LogViewport: Scene viewport resized to 1525x708, mode Windowed.
+[2024.04.22-16.22.19:537][491]LogViewport: Scene viewport resized to 1525x707, mode Windowed.
+[2024.04.22-16.22.19:570][493]LogViewport: Scene viewport resized to 1525x705, mode Windowed.
+[2024.04.22-16.22.19:620][497]LogViewport: Scene viewport resized to 1525x704, mode Windowed.
+[2024.04.22-16.22.19:654][500]LogViewport: Scene viewport resized to 1525x702, mode Windowed.
+[2024.04.22-16.22.19:911][523]LogViewport: Scene viewport resized to 1525x701, mode Windowed.
+[2024.04.22-16.22.19:925][524]LogViewport: Scene viewport resized to 1525x699, mode Windowed.
+[2024.04.22-16.22.19:941][525]LogViewport: Scene viewport resized to 1525x696, mode Windowed.
+[2024.04.22-16.22.19:965][527]LogViewport: Scene viewport resized to 1525x695, mode Windowed.
+[2024.04.22-16.22.30:411][461]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.23.03:531][428]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.24.04:339][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.22-16.24.04:386][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Park_Auto3
+[2024.04.22-16.24.04:386][468]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park_Auto3D555359346CEB412EA95BEAC0AA3AFCD.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto3.umap'
+[2024.04.22-16.24.04:394][468]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.22-16.24.04:394][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Park' took 0.174
+[2024.04.22-16.24.04:394][468]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.174
+[2024.04.22-16.24.04:825][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/SM_Gate_Blueprint] ([2] browsable assets)...
+[2024.04.22-16.24.04:826][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/SM_Gate_Blueprint]
+[2024.04.22-16.24.04:831][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/SM_Gate_Blueprint_Auto3
+[2024.04.22-16.24.04:831][468]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_Blueprint_Auto365B0ACCE43B97B77E3233597CC6A3F28.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/BluePrints/SM_Gate_Blueprint_Auto3.uasset'
+[2024.04.22-16.24.04:831][468]LogFileHelpers: Auto-saving content packages took 0.438
+[2024.04.22-16.28.13:392][468]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.28.13:535][469]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.13:837][482]LogEditorTransaction: Undo Set Key Value
+[2024.04.22-16.28.13:953][483]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.14:259][509]LogEditorTransaction: Undo Set Key Value
+[2024.04.22-16.28.14:345][510]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.14:615][534]LogEditorTransaction: Undo Set Key Value
+[2024.04.22-16.28.14:695][535]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.15:032][564]LogEditorTransaction: Undo Set Playback Range
+[2024.04.22-16.28.15:118][565]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.17:376][774]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.28.17:475][775]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.18:272][830]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-16.28.18:359][831]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.18:730][866]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-16.28.18:810][867]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.19:101][895]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.28.19:173][896]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.28.59:387][566]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.29.34:120][566]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.14:597][ 69]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.30.14:698][ 70]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.15:054][ 85]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.30.15:152][ 86]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.15:452][111]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.30.15:522][112]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.15:838][140]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.30.15:906][141]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.17:519][274]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.30.17:600][275]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.17:967][307]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.30.18:062][308]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.27:055][ 94]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.22-16.30.27:178][ 95]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.30.27:530][110]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-16.30.27:668][111]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.32.29:902][460]AssetReimport: New page: Outstanding source content changes 6:32:29 AM
+[2024.04.22-16.32.29:903][460]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Audio/SX_ScratchingMetal.wav)
+[2024.04.22-16.32.35:795][460]LogSlate: Window 'Message' being destroyed
+[2024.04.22-16.32.35:829][460]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SX_ScratchingMetal.SX_ScratchingMetal: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.22-16.32.35:833][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.32.35:863][461]LogSavePackage: Moving output files for package: /Game/Audio/SX_ScratchingMetal
+[2024.04.22-16.32.35:863][461]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SX_ScratchingMetal5354543840149F7980BF989385E2B64B.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Audio/SX_ScratchingMetal.uasset'
+[2024.04.22-16.32.35:870][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.44 sec)
+[2024.04.22-16.32.35:885][462]AssetCheck: New page: Asset Save: SX_ScratchingMetal
+[2024.04.22-16.32.35:885][462]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SX_ScratchingMetal.SX_ScratchingMetal
+[2024.04.22-16.32.38:875][719]AssetReimport: Importing new asset /Game/Audio/SX_ScratchingMetal.
+[2024.04.22-16.33.01:739][607]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint'
+[2024.04.22-16.34.11:168][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.22-16.34.11:201][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Park_Auto4
+[2024.04.22-16.34.11:202][630]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park_Auto4325D905843418386578E92932A000F6A.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto4.umap'
+[2024.04.22-16.34.11:206][630]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.22-16.34.11:206][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Park' took 0.355
+[2024.04.22-16.34.11:206][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.355
+[2024.04.22-16.34.11:206][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/SM_Gate_Blueprint] ([2] browsable assets)...
+[2024.04.22-16.34.11:206][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/SM_Gate_Blueprint]
+[2024.04.22-16.34.11:211][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/SM_Gate_Blueprint_Auto4
+[2024.04.22-16.34.11:211][630]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_Blueprint_Auto423CB3F2340A1FB22C1FB1498F4C6F828.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/BluePrints/SM_Gate_Blueprint_Auto4.uasset'
+[2024.04.22-16.34.11:212][630]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.04.22-16.34.22:169][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.22:199][597]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.22:199][597]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_Blueprint4C25FEDA4A421F37C09F98AC822EFF49.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.22:205][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.47 sec)
+[2024.04.22-16.34.22:208][597]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.22:208][597]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.34.23:315][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.23:342][696]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.23:342][696]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintDFF52944464E563393EC3487AD0234B5.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.23:348][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.50 sec)
+[2024.04.22-16.34.23:350][696]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.23:351][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.34.24:962][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.24:991][841]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.24:992][841]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintBD554A81455EBC44E8C330B4D2D10EA6.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.24:997][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.54 sec)
+[2024.04.22-16.34.25:000][841]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.25:000][841]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.34.25:185][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.25:215][857]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.25:215][857]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintD5499C5C45A2F037BF82368DCFA96089.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.25:221][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.57 sec)
+[2024.04.22-16.34.25:223][857]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.25:223][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.34.25:351][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.25:380][868]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.25:381][868]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_Blueprint92551DE5467E0778EE580E9E95392BF3.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.25:387][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.61 sec)
+[2024.04.22-16.34.25:388][868]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.25:388][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.34.25:530][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.25:560][880]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.25:561][880]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintDEC12BFB47629F27C1E8A7AF40EAAFC6.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.25:567][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.65 sec)
+[2024.04.22-16.34.25:569][880]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.25:569][880]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
+[2024.04.22-16.34.26:695][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.34.26:723][980]LogSavePackage: Moving output files for package: /Game/BluePrints/SM_Gate_Blueprint
+[2024.04.22-16.34.26:723][980]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/SM_Gate_BlueprintB9551796419D36263E521FA282E503AA.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/BluePrints/SM_Gate_Blueprint.uasset'
+[2024.04.22-16.34.26:728][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.68 sec)
+[2024.04.22-16.34.26:731][980]AssetCheck: New page: Asset Save: SM_Gate_Blueprint
+[2024.04.22-16.34.26:731][980]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint
