@@ -3178,3 +3178,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.22-15.55.24:836][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.22-15.55.24:849][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2024.04.22-15.55.24:969][733]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.04.22-15.56.56:176][420]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-15.56.56:180][420]LogSlate: Window 'Message Log' being destroyed
+[2024.04.22-15.57.19:553][256]LogViewport: Scene viewport resized to 2038x1252, mode Windowed.
+[2024.04.22-15.59.13:663][829]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG
+[2024.04.22-15.59.13:663][829]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG
+[2024.04.22-15.59.13:664][829]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG as actor: AmbientSound /Game/Maps/Park.Park:PersistentLevel.AmbientSound_0
+[2024.04.22-15.59.13:664][829]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG as actor: AmbientSound /Game/Maps/Park.Park:PersistentLevel.AmbientSound_0
+[2024.04.22-15.59.14:277][901]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG
+[2024.04.22-15.59.14:277][901]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG
+[2024.04.22-15.59.14:279][901]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG as actor: AmbientSound /Game/Maps/Park.Park:PersistentLevel.AmbientSound_1
+[2024.04.22-15.59.14:280][901]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG as actor: AmbientSound /Game/Maps/Park.Park:PersistentLevel.AmbientSound_1
+[2024.04.22-16.03.06:585][471]LogDerivedDataCache: C:/Users/bmm6258/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4833 files in 6499 folders with total size 486 MiB.
+[2024.04.22-16.04.17:671][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-16.04.17:714][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.22-16.04.17:747][985]LogSavePackage: Moving output files for package: /Game/Maps/Park
+[2024.04.22-16.04.17:748][985]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park5BC97080499685D8E8EB5CA131E053B9.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Maps/Park.umap'
+[2024.04.22-16.04.17:756][985]LogFileHelpers: Saving map 'Park' took 0.059
+[2024.04.22-16.04.17:762][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.30 sec)
+[2024.04.22-16.04.17:763][985]AssetCheck: New page: Asset Save: Park
+[2024.04.22-16.04.17:763][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Park.Park
