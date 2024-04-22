@@ -2867,3 +2867,314 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.22-15.33.32:893][544]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/SM_Gate_Blueprint.SM_Gate_Blueprint as actor: SM_Gate_Blueprint_C /Game/Maps/Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1
 [2024.04.22-15.33.53:111][862]Cmd: DUPLICATE
 [2024.04.22-15.33.53:111][862]Cmd: ACTOR DUPLICATE
+[2024.04.22-15.35.47:706][514]Cmd: DUPLICATE
+[2024.04.22-15.35.47:706][514]Cmd: ACTOR DUPLICATE
+[2024.04.22-15.38.02:449][754]AssetReimport: New page: Outstanding source content changes 5:38:02 AM
+[2024.04.22-15.38.02:515][754]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:/Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Audio/S_ParkPlaying_BKG.wav)
+[2024.04.22-15.38.03:856][754]LogSlate: Took 0.003981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.22-15.38.03:907][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.38.04:499][755]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.22-15.38.04:525][755]LogSavePackage: Moving output files for package: /Game/Audio/S_ParkPlaying_BKG
+[2024.04.22-15.38.04:525][755]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/S_ParkPlaying_BKG252C75444E9F8573B0A16A8CB3C46179.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/Audio/S_ParkPlaying_BKG.uasset'
+[2024.04.22-15.38.04:537][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 630 ms (total: 767 ms)
+[2024.04.22-15.38.04:548][756]AssetCheck: New page: Asset Save: S_ParkPlaying_BKG
+[2024.04.22-15.38.04:548][756]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/S_ParkPlaying_BKG.S_ParkPlaying_BKG
+[2024.04.22-15.38.07:543][109]AssetReimport: Importing new asset /Game/Audio/S_ParkPlaying_BKG.
+[2024.04.22-15.39.04:375][302]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.39.04:966][302]LogViewport: Scene viewport resized to 2038x813, mode Windowed.
+[2024.04.22-15.39.05:003][302]LogSlate: Took 0.012318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: ================================================
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Total job queries 6,061, among them cache hits 40 (0.66%)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Tracking 6,017 distinct input hashes that result in 4,155 distinct outputs (69.05%)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: RAM used: 16.36 MiB of 3.20 GiB budget. Usage: 0.50%
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Shaders Compiled: 6,017
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Jobs assigned 6,017, completed 6,017 (100%)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Average time worker was idle: 37.04 s
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Time job spent in pending queue: average 91.56 s, longest 186.99 s
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Job execution time: average 5.05 s, max 27.39 s
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Job life time (pending + execution): average 96.61 s, max 196.27
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Shader code size: average 11.165 KiB, min 140 B, max 154.367 KiB
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 221.44 s
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Jobs were issued in 794 batches (only local compilation was used), average 7.58 jobs/batch
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Average processing rate: 27.17 jobs/sec
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Total thread time: 2,930.965 s
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Total thread preprocess time: 100.622 s
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Percentage time preprocessing: 3.43%
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Effective parallelization: 13.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 11.08 sec, max 11.08 sec, min 11.08 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 7.63 sec, max 24.01 sec, min 1.65 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.93 sec, max 11.32 sec, min 0.26 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 4.30 sec, max 19.37 sec, min 0.29 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 3.51 sec, max 5.59 sec, min 1.26 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 11.03% of total time (compiled  384 times, average 0.84 sec, max 3.20 sec, min 0.07 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 10.48% of total time (compiled  128 times, average 2.40 sec, max 5.90 sec, min 0.44 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 9.17% of total time (compiled  128 times, average 2.10 sec, max 2.99 sec, min 1.46 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.65% of total time (compiled   90 times, average 1.84 sec, max 3.70 sec, min 0.24 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 3.68% of total time (compiled   34 times, average 3.18 sec, max 4.83 sec, min 1.24 sec)
+[2024.04.22-15.39.05:647][360]LogShaderCompilers: Display: ================================================
+[2024.04.22-15.40.28:604][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.22-15.40.29:036][106]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Park_Auto2
+[2024.04.22-15.40.29:037][106]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Park_Auto211F820F34B0574E8D3BD25B95E20DD55.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto2.umap'
+[2024.04.22-15.40.29:038][106]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/Maps/Park_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.22-15.40.29:039][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Park' took 0.475
+[2024.04.22-15.40.29:039][106]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.475
+[2024.04.22-15.40.29:042][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/animation/NewLevelSequence] ([1] browsable assets)...
+[2024.04.22-15.40.29:042][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/animation/NewLevelSequence]
+[2024.04.22-15.40.29:044][106]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animation/NewLevelSequence_Auto2
+[2024.04.22-15.40.29:044][106]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence_Auto2DD190F0849F910D449B2089A557CB2AB.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/Autosaves/Game/animation/NewLevelSequence_Auto2.uasset'
+[2024.04.22-15.40.29:044][106]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.04.22-15.45.39:560][823]Cmd: TRANSACTION UNDO
+[2024.04.22-15.45.39:561][823]LogEditorTransaction: Undo Set Key Value
+[2024.04.22-15.45.39:940][842]Cmd: TRANSACTION UNDO
+[2024.04.22-15.45.39:940][842]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.45.40:229][866]Cmd: TRANSACTION UNDO
+[2024.04.22-15.45.40:229][866]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.45.40:475][894]Cmd: TRANSACTION UNDO
+[2024.04.22-15.45.40:475][894]LogEditorTransaction: Undo Set Playback Range
+[2024.04.22-15.47.25:832][502]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.25:832][502]LogEditorTransaction: Undo Select Actors/Components
+[2024.04.22-15.47.26:054][515]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.26:054][515]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.26:293][526]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.26:293][526]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.26:475][544]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.26:475][544]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.26:669][566]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.26:669][566]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.26:825][584]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.26:825][584]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.27:016][606]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.27:017][606]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.27:205][628]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.27:205][628]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.27:404][650]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.27:404][650]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.27:594][672]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.27:594][672]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.27:787][694]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.27:787][694]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.27:993][718]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.27:993][718]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.28:185][740]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.28:185][740]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.28:391][764]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.28:391][764]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.28:617][790]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.28:617][790]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.28:839][816]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.28:839][816]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.29:080][844]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.29:080][844]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.29:319][872]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.29:319][872]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.47.33:096][324]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.33:096][324]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.47.33:550][349]Cmd: TRANSACTION UNDO
+[2024.04.22-15.47.33:550][349]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.48.38:806][ 88]Cmd: TRANSACTION UNDO
+[2024.04.22-15.48.38:806][ 88]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.49.17:468][633]Cmd: TRANSACTION UNDO
+[2024.04.22-15.49.17:468][633]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.49.42:426][566]Cmd: TRANSACTION UNDO
+[2024.04.22-15.49.42:426][566]LogEditorTransaction: Undo Set Key Value
+[2024.04.22-15.49.43:422][650]Cmd: TRANSACTION UNDO
+[2024.04.22-15.49.43:422][650]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.49.53:401][836]Cmd: TRANSACTION UNDO
+[2024.04.22-15.49.53:401][836]LogEditorTransaction: Undo Set Key Value
+[2024.04.22-15.49.53:777][855]Cmd: TRANSACTION UNDO
+[2024.04.22-15.49.53:777][855]LogEditorTransaction: Undo Set Rotation
+[2024.04.22-15.50.30:553][201]Cmd: TRANSACTION UNDO
+[2024.04.22-15.50.30:553][201]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.04.22-15.51.11:717][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.11:746][ 10]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.11:746][ 10]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence9918A22F45AC0D923D90BC82FA262807.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.11:753][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 803 ms)
+[2024.04.22-15.51.11:757][ 10]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.11:757][ 10]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.13:139][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.13:167][171]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.13:167][171]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence3DF972AF4289C6E2557F889E848EFF76.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.13:173][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 838 ms)
+[2024.04.22-15.51.13:175][171]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.13:175][171]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.13:356][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.13:379][190]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.13:379][190]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence6433C59443FF38F4551D568CEA1DE490.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.13:386][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 868 ms)
+[2024.04.22-15.51.13:387][190]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.13:387][190]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.13:541][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.13:566][205]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.13:566][205]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence6E707E3F417C0BD70A0CAEAF135655C6.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.13:574][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 901 ms)
+[2024.04.22-15.51.13:576][205]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.13:576][205]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.13:708][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.13:728][218]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.13:729][218]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequenceF9A06FF249B689B9DD93E9A0AA1C0808.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.13:736][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 929 ms)
+[2024.04.22-15.51.13:737][218]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.13:737][218]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.13:899][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.13:921][234]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.13:921][234]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequenceF41EF1E54FF48FBFD7BD86ACD1642F98.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.13:929][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 958 ms)
+[2024.04.22-15.51.13:930][234]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.13:930][234]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.14:039][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.14:063][244]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.14:063][244]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequenceDC7322D04A1FFC06970012BB70D1C985.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.14:069][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 989 ms)
+[2024.04.22-15.51.14:070][244]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.14:070][244]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.14:218][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.14:242][258]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.14:242][258]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequenceE517CF614CADAC3F4EC13F9DD67EADF6.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.14:249][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.02 sec)
+[2024.04.22-15.51.14:250][258]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.14:250][258]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.14:366][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.14:392][269]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.14:392][269]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence65EEBA264183D6D2D6B90ABD674A8532.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.14:399][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.05 sec)
+[2024.04.22-15.51.14:401][269]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.14:401][269]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.14:534][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.14:559][281]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.14:559][281]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence15301E294B821B7BF63419AD5F60399D.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.14:568][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.08 sec)
+[2024.04.22-15.51.14:569][281]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.14:569][281]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.14:694][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.14:717][293]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.14:717][293]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence677989ED40AE6A4975FDD8BDAFE4EBF4.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.14:724][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.11 sec)
+[2024.04.22-15.51.14:726][293]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.14:726][293]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.14:839][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.14:866][303]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.14:866][303]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence64847B3344EC493A8E5E1B87989590E9.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.14:873][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.15 sec)
+[2024.04.22-15.51.14:874][303]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.14:875][303]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.15:017][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.15:045][317]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.15:046][317]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequenceBCC247D9476978F07019B3B0CF8E0292.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.15:053][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.18 sec)
+[2024.04.22-15.51.15:054][317]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.15:054][317]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.51.15:164][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-15.51.15:188][327]LogSavePackage: Moving output files for package: /Game/animation/NewLevelSequence
+[2024.04.22-15.51.15:188][327]LogSavePackage: Moving '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Saved/NewLevelSequence6FAFE73348BFCC3A8CE4FBBC79AC78F4.tmp' to '../../../../../../Students/BriannaMcConnell/24sp-csg3013-unrealexercise-DreamScapeGames/UnrealPark 5.3/Content/animation/NewLevelSequence.uasset'
+[2024.04.22-15.51.15:194][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.21 sec)
+[2024.04.22-15.51.15:196][327]AssetCheck: New page: Asset Save: NewLevelSequence
+[2024.04.22-15.51.15:196][327]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/animation/NewLevelSequence.NewLevelSequence
+[2024.04.22-15.54.51:295][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.22-15.54.51:770][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.22-15.54.51:770][112]PIE: New page: PIE session: Park (Apr 22, 2024, 5:54:51 AM)
+[2024.04.22-15.54.51:811][112]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.22-15.54.51:811][112]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.22-15.54.51:811][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Park
+[2024.04.22-15.54.51:820][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008443s)
+[2024.04.22-15.54.51:820][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Park.Park to /Game/Maps/UEDPIE_0_Park.Park (0.008486s)
+[2024.04.22-15.54.51:826][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.22-15.54.51:827][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.22-15.54.51:828][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-15.54.51:828][112]LogAIModule: Creating AISystem for world Park
+[2024.04.22-15.54.51:828][112]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2024.04.22-15.54.51:828][112]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.22-15.54.51:828][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.22-15.54.51:828][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.22-15.54.51:829][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.22-15.54.51:829][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.22-15.54.51:829][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.22-15.54.51:831][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.22-15.54.51:846][112]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.22-15.54.51:846][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.22-15.54.51:846][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.22-15.54.51:846][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.22-15.54.51:847][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.22-15.54.51:847][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.22-15.54.51:848][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.22-15.54.51:848][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.22-15.54.51:848][112]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.22-15.54.51:848][112]LogAudio: Display: Audio Device (ID: 2) registered with world 'Park'.
+[2024.04.22-15.54.51:848][112]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.22-15.54.53:443][112]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64x64 x1x1x1) (Required Memory Estimate: 0.218742 MB), EncodeSpeed: Fast
+[2024.04.22-15.54.53:602][112]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.22-15.54.53:705][112]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_557' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6062.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_234' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6063.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_163' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6064.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_562' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6065.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_559' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6066.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_561' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6067.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_1.StaticMeshActor_560' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6068.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_557' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_557_GEN_VARIABLE_StaticMeshActor_CAT_6741.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_234' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_234_GEN_VARIABLE_StaticMeshActor_CAT_6742.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_163' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_163_GEN_VARIABLE_StaticMeshActor_CAT_6743.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_562' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_562_GEN_VARIABLE_StaticMeshActor_CAT_6744.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_559' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_559_GEN_VARIABLE_StaticMeshActor_CAT_6745.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_561' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_561_GEN_VARIABLE_StaticMeshActor_CAT_6746.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:708][112]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.SM_Gate_Blueprint_C_2.StaticMeshActor_560' is not static  (in blueprint "SM_Gate_Blueprint"), cannot attach '/Game/Maps/UEDPIE_0_Park.Park:PersistentLevel.StaticMeshActor_560_GEN_VARIABLE_StaticMeshActor_CAT_6747.StaticMeshComponent0' which is static to it. Aborting.
+[2024.04.22-15.54.53:711][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Park.Park up for play (max tick rate 0) at 2024.04.22-10.54.53
+[2024.04.22-15.54.53:727][112]LogWorld: Bringing up level for play took: 0.022155
+[2024.04.22-15.54.53:730][112]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.04.22-15.54.54:209][112]PIE: Server logged in
+[2024.04.22-15.54.54:210][112]PIE: Play in editor total start time 2.911 seconds.
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: ================================================
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Total job queries 6,067, among them cache hits 40 (0.66%)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Tracking 6,019 distinct input hashes that result in 4,156 distinct outputs (69.05%)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: RAM used: 16.37 MiB of 3.20 GiB budget. Usage: 0.50%
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Shaders Compiled: 6,019
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Jobs assigned 6,023, completed 6,019 (99.93%)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Average time worker was idle: 45.29 s
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Time job spent in pending queue: average 91.47 s, longest 186.99 s
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Job execution time: average 5.05 s, max 27.39 s
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Job life time (pending + execution): average 96.58 s, max 196.27
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Shader code size: average 11.164 KiB, min 140 B, max 154.367 KiB
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 223.39 s
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Jobs were issued in 800 batches (only local compilation was used), average 7.53 jobs/batch
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Average processing rate: 26.94 jobs/sec
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Total thread time: 2,932.517 s
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Total thread preprocess time: 101.462 s
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Percentage time preprocessing: 3.46%
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Effective parallelization: 13.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 11.08 sec, max 11.08 sec, min 11.08 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 7.63 sec, max 24.01 sec, min 1.65 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.93 sec, max 11.32 sec, min 0.26 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 4.30 sec, max 19.37 sec, min 0.29 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 3.51 sec, max 5.59 sec, min 1.26 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 11.02% of total time (compiled  384 times, average 0.84 sec, max 3.20 sec, min 0.07 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 10.48% of total time (compiled  128 times, average 2.40 sec, max 5.90 sec, min 0.44 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 9.16% of total time (compiled  128 times, average 2.10 sec, max 2.99 sec, min 1.46 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.65% of total time (compiled   90 times, average 1.84 sec, max 3.70 sec, min 0.24 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 3.68% of total time (compiled   34 times, average 3.18 sec, max 4.83 sec, min 1.24 sec)
+[2024.04.22-15.54.56:234][319]LogShaderCompilers: Display: ================================================
+[2024.04.22-15.55.24:820][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-15.55.24:820][732]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Park
+[2024.04.22-15.55.24:821][732]LogWorld: UWorld::CleanupWorld for Park, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-15.55.24:822][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-15.55.24:825][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.22-15.55.24:827][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-15.55.24:830][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.22-15.55.24:831][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.22-15.55.24:831][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.22-15.55.24:833][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.22-15.55.24:836][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.22-15.55.24:849][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.22-15.55.24:969][733]LogPlayLevel: Display: Destroying online subsystem :Context_2
